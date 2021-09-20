@@ -169,11 +169,10 @@ width: 30%;
 .find_text { font-size: 50px; }
 .header_section { padding-bottom: 0px; }
 .crush_text { font-size: 36px; padding: 0px; }
-.contact { margin-top: 40px; }
 #my_Controls a.carousel-control-next { top: 272px; }
 #my_Controls a.carousel-control-prev{ top: 272px; left: 13%; }
-.banner_section { padding-top: 175px; padding-bottom: 48px;}
-.about_taital { width: 90%; margin-top: 40px; }
+.banner_section { padding-top: 175px; padding-bottom: 0px;}
+.about_taital { width: 90%; margin-top: 0px; }
 .long_text_2 { font-size: 12px; padding-top: 0px;}
 .our_text { width: 30%; }
 .fact_text { font-size: 16px; }
@@ -243,12 +242,12 @@ width: 30%;
 .header_section { padding-bottom: 0px; }
 .find_text { font-size: 44px; }
 .crush_text { padding: 0px; font-size: 34px; }
-.banner_section { padding-top: 120px; }
+.banner_section { padding-top: 120px; height: auto;}
 .contact { margin-top: 10px; }
 .contact_bt { width: 25%; } 
 #my_Controls a.carousel-control-next { top: 235px; }
 #my_Controls a.carousel-control-prev { left: 15%; top: 235px; }
-.about_section { margin-top: 80px; }
+.about_section { margin-top: 40px; }
 .about_taital { width: 95%; margin-top: 20px; }
 .about_text { font-size: 36px; }
 .long_text_2 { font-size: 12px; padding-top: 0px;  }
@@ -336,9 +335,9 @@ padding: 126px 40px;
 .header_section { padding-bottom: 15px; padding-top: 15px; }
 .menu_text { height: 0px; }
 .find_text { font-size: 32px; }
-.crush_text { font-size: 26px; padding: 0px; }
-.long_text { font-size: 12px; }
-.banner_section { padding-top: 105px;}
+.crush_text { font-size: 26px; padding-bottom: 20px; }
+.long_text { font-size: 12px; display: none; }
+.banner_section { padding-top: 105px; height: 40vh; margin-bottom: 25px;}
 .contact_bt { display: none; }
 #my_Controls a.carousel-control-prev { display: none; }
 #my_Controls a.carousel-control-next { display: none; }
@@ -461,13 +460,13 @@ ul.link li {
 .logo { text-align: left;}
 .menu_text { height: 0px;}
 .find_text { font-size: 17px; }
-.banner_section { padding: 0px; padding-top: 50px;}
+.banner_section { padding: 0px; padding-top: 50px; height: 30vh;}
 .crush_text { font-size: 14px; padding: 0px; }
 .long_text { display: none; }
 .contact_bt { display: none; }
 #my_Controls a.carousel-control-prev { display: none; }
 #my_Controls a.carousel-control-next { display: none; }
-.about_taital { width: 95%; margin-top: 40px; }
+.about_taital { width: 95%;}
 .about_text { font-size: 34px; }
 .long_text_2 { width: 97%; font-size: 12px; }
 .about_bt { width: 45%; margin-bottom: 20px; }
