@@ -770,9 +770,10 @@ button {
 .background_bg{
 	width: 100%;
 	float: left;
-    height: auto;
+    height: 80vh;
     background-image: url(../images/contact-bg.png);
     background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 .contact_bg {
