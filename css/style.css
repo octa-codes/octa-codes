@@ -612,6 +612,14 @@ button {
     margin-left: 0;
 }
 
+.lorem_ipsum_text1 {
+    width: 61%;
+    float: left;
+    color: #333;
+    font-size: 22px;
+    margin-left: 0;
+}
+
 .choice_main {
     width: 100%;
     float: left;
